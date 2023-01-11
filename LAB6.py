@@ -1,4 +1,4 @@
-#KNOWLEDGE BASE USING PREPOSITIONAL LOGIC
+#KNOWLEDGE BASE USING PREPOSITIONAL LOGIC AND SHOW IF QUERY ENTAILS KNOWLEDGE BASE OR NOT
 TFcombo=[(False, False, False), (False, False, True), (False,True, False), (True, False, False), (False, True, True), (True, True, False), (True,False, True), (True, True, True)]
 variable={'a':0,'b':1, 'c':2}
 kb=''
